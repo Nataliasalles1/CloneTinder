@@ -1,6 +1,6 @@
 
- <a href="![image](https://github.com/Nataliasalles1/CloneTinder/assets/109856255/6c3aeeb4-a02e-4055-b0ce-4c3fbda8083a)
-"><img src="https://github.com/Nataliasalles1/CloneTinder/assets/109856255/6c3aeeb4-a02e-4055-b0ce-4c3fbda8083a" img align="right" width="150" height="150" border="0" alt="https://www.iconfinder.com/" /></a><br /><a href="https://picasion.com/"></a>
+ <a href="![image](https://github.com/Nataliasalles1/CloneTinder/assets/109856255/c315dddf-aaa8-43c2-b6e8-8d93ccc677db)
+"><img src="https://github.com/Nataliasalles1/CloneTinder/assets/109856255/c315dddf-aaa8-43c2-b6e8-8d93ccc677db" img align="right" width="150" height="150" border="0" alt="https://www.iconfinder.com/" /></a><br /><a href="https://picasion.com/"></a>
 
 # Clone Tinder - Imã Tech 
 
